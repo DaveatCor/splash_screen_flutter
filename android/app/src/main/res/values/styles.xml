@@ -7,7 +7,7 @@
 <!--    </style>-->
     <color name="white">#FFFFFF</color>
     <style name="SplashScreen" parent="@android:style/Theme.Black.NoTitleBar">
-        <item name="android:windowBackground">@layout/launch</item>
+        <item name="android:windowBackground">@drawable/launch_background</item>
     </style>
     <string name="textSplashScreen">Powered by koompi</string>
 </resources>
